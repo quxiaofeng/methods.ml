@@ -27,13 +27,13 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/quxiaofeng
   - title: twitter
-    url: 
+    url: https://twitter.com/quxiaofeng
   - title: instagram
-    url: 
+    url: https://instagram.com/quxiaofeng/
   - title: tumblr
-    url: 
+    url: https://www.tumblr.com/blog/quxiaofeng
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
