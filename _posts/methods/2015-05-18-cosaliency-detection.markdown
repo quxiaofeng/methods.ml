@@ -6,8 +6,8 @@ author: QU Xiaofeng
 categories:
 - methods
 - vision
-img: post03.jpg
-thumb: thumb03.jpg
+img: cosaliency.jpg
+thumb: cosaliency.jpg
 ---
 
 Papers & Codes
