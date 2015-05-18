@@ -7,7 +7,7 @@ categories:
 - project
 img: dpl.jpg
 carousel:
-- dpl.jpg
+- dpl.gif
 client: Volunteer
 website: https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl
 ---
