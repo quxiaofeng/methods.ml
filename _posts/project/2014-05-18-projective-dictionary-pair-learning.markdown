@@ -6,6 +6,7 @@ author: QU Xiaofeng
 categories:
 - project
 img: dpl.jpg
+thumb: thumb02.jpg
 carousel:
 - dpl.gif
 client: Volunteer
