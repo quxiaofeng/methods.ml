@@ -4,6 +4,7 @@ title: "Co-saliency Detection"
 date: 2015-05-18 19:12:11
 author: QU Xiaofeng
 categories:
+- methods
 - vision
 img: post03.jpg
 thumb: thumb03.jpg
