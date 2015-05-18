@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Julia Code for Projective Dictionary Pair Learning"
+title:  "Julia Port of Projective Dictionary Pair Learning"
 date:   2015-05-18 19:18:53
 author: QU Xiaofeng
 categories:
