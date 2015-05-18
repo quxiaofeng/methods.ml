@@ -5,12 +5,10 @@ date:   2015-05-18 19:18:53
 author: QU Xiaofeng
 categories:
 - project
-img: portfolio_01.jpg
+img: dpl.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
+- dpl.jpg
+client: Volunteer
 website: https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl
 ---
 #### Introduction
