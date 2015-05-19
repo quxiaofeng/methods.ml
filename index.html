@@ -8,7 +8,7 @@ permalink: /
     <div class="row">
 
         <! -- BLOG POSTS LIST -->
-        <div class="col-lg-12">
+        <div class="col-lg-8">
 
             {% for post in site.categories['methods'] %}
                 <! -- Blog Post -->
@@ -24,7 +24,10 @@ permalink: /
                 <div class="spacing"></div>
             {% endfor %}
 
-        </div><! --/col-lg-12 -->
+        </div><! --/col-lg-8 -->
+
+        {% include sidebar.html %}
+
     </div><! --/row -->
 </div><! --/container -->
 
