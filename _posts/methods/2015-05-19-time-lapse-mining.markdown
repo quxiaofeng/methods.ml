@@ -10,7 +10,10 @@ img: time-lapse-mining-01.jpg
 thumb: time-lapse-mining.jpg
 ---
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/wptzVm0tngc" frameborder="0" allowfullscreen></iframe>
+<div  width="100%" padding-top="25px" padding-bottom="56.25%" >
+<iframe width="100%" height="100%" position="absolute" src="https://www.youtube.com/embed/wptzVm0tngc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 [[PDF](/assets/pdf/TimelapseMiningSIGGRAPH15.pdf)]
 
