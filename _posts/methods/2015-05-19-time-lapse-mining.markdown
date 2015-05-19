@@ -11,7 +11,7 @@ thumb: time-lapse-mining.jpg
 ---
 
 <div  width="100%" padding-top="25px" padding-bottom="56.25%" height="0" >
-<iframe width="100%" height="100%" position="absolute" src="https://www.youtube.com/embed/wptzVm0tngc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" position="absolute" top="0" left="0" src="https://www.youtube.com/embed/wptzVm0tngc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
