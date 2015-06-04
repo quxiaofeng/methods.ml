@@ -6,7 +6,24 @@ author: QU Xiaofeng
 categories:
 - methods
 - vision
-img: pisa.jpg
+img:
+  - ssc.gif
+  - ssc-algo.gif
+  - ssc-scheme1.gif
+  - ssc-scheme2.gif
+  - ssc-scheme3.gif
+  - ssc-scheme4.gif
+  - ssc-scheme5.gif
+  - ssc-scheme6.gif
+  - ssc-scheme7.gif
+  - rssc.jpg
+  - rssc-algo.jpg
+  - rssc-result1.jpg
+  - rssc-result2.jpg
+  - rssc-sample1.jpg
+  - rssc-sample2.jpg
+  - rssc-result3.jpg
+  - rssc-result4.jpg
 thumb: rssc.jpg
 ---
 
@@ -53,6 +70,60 @@ State-of-art 方法：
 | (35 seqs)     | Median    | 1.60 | 1.83 | 0.58 | 1.43 | 0.56 | 0.37 |
 | All           | Mean      | 3.20 | 3.52 | 1.25 | 3.76 | 2.29 | 1.21 |
 | (155 seqs)    | Median    | 0.37 | 0.37 | 0.00 | 0.00 | 0.00 | 0.00 |
+
+**Table 3.** The comparement of computation time (s) of different algorithms on Hopkins155 dataset with the 2F-dimensional data points. The computation time is recorded in two stages. One is the average computation time of solving the representation or affinity matrix (Repres.), the other is the average computation time of the spectral clustering stage (Spectr.). The lowest time for solving the representation matrix are highlighted in bold.
+
+| No. of motion | Algorithm | LSR1  | LSR2  | SMR   | LRR   | SSC   | RSSC  |
+|---------------|-----------|-------|-------|-------|-------|-------|-------|
+| 2 Motions     | Repres.   | 0.006 | 0.003 | 0.108 | 0.865 | 0.465 | 0.813 |
+| (120 seqs)    | Spectr.   | 0.019 | 0.021 | 0.093 | 0.049 | 0.053 | 0.047 |
+| 3 Motions     | Repre.    | 0.013 | 0.008 | 0.256 | 1.214 | 0.968 | 1.740 |
+| (35 seqs)     | Spectr.   | 0.036 | 0.039 | 0.162 | 0.096 | 0.098 | 0.094 |
+
+**Table 5.** Clustering error (%) of the state-of-the-art algorithms and our proposed RSSC algorithm on the Freiburg-Berkeley Motion Segmentation dataset with the 2F-dimensional data points. The dataset is divided into two parts: rigid motions and non-rigid motions. The lowest mean and median clustering errors are highlighted in bold.
+
+| Type of motion | Algorithm | LSR1 | LSR2 | LSA   | SCC  | SMR   | LRR   | SSC  | RSSC |
+|----------------|-----------|------|------|-------|------|-------|-------|------|------|
+| Rigid          | Mean      | 0.59 | 0.59 | 5.4   | 2.56 | 1.44  | 3.14  | 1.31 | 1.2  |
+| (22 seqs)      | Median    | 0    | 0    | 0     | 0    | 0     | 0     | 0    | 0    |
+| Non-rigid      | Mean      | 7.88 | 7.87 | 18.01 | 7.22 | 11.09 | 10.97 | 8.61 | 7.45 |
+| (115 seqs)     | Median    | 0.38 | 0.38 | 12    | 0.5  | 3.25  | 0     | 0    | 0    |
+| All            | Mean      | 6.71 | 6.7  | 15.98 | 6.47 | 9.54  | 9.72  | 7.45 | 6.44 |
+| (137 seqs)     | Median    | 0    | 0    | 8.25  | 0.25 | 1     | 0     | 0    | 0    |
+
+**Table 6.** Clustering error (%) of the state-of-the-art algorithms and our proposed RSSC algorithm on the Freiburg-Berkeley Motion Segmentation dataset with the 4n-dimensional data points obtained by applying PCA. The dataset is divided into two parts: rigid motions and non-rigid motions. The lowest mean and median clustering errors are highlighted in bold.
+
+| Type of motion | Algorithm | LSR1 | LSR2 | LSA   | SCC  | SMR   | LRR   | SSC  | RSSC |
+|----------------|-----------|------|------|-------|------|-------|-------|------|------|
+| Rigid          | Mean      | 0.57 | 0.57 | 5.4   | 2.5  | 1.44  | 3.09  | 1.31 | 1.24 |
+| (22 seqs)      | Median    | 0    | 0    | 0     | 0    | 0     | 0     | 0    | 0    |
+| Non-rigid      | Mean      | 7.59 | 7.6  | 16.98 | 7.29 | 12.07 | 10.53 | 8.78 | 6.68 |
+| (115 seqs)     | Median    | 0.36 | 0.36 | 9.5   | 0.5  | 3.89  | 0.25  | 0    | 0    |
+| All            | Mean      | 6.47 | 6.47 | 16.05 | 6.52 | 10.37 | 9.34  | 7.58 | 5.81 |
+| (137 seqs)     | Median    | 0    | 0    | 8.5   | 0.25 | 1.75  | 0     | 0    | 0    |
+
+**Table 9.** Clustering error (%) of our algorithm and the SSC algorithm on the Extended Yale B dataset. The lowest mean and median clustering errors are highlighted in bold.
+
+| No. of subject     | Algorithm | LSR1  | LSR2  | SMR  | LRR   | SSC  | RSSC |
+|--------------------|-----------|-------|-------|------|-------|------|------|
+| 2 Subjects         | Mean      | 7.34  | 7.35  | 1.75 | 2.13  | 1.85 | 0.57 |
+| (163 combinations) | Median    | 7.03  | 7.03  | 0.78 | 0.78  | 0    | 0    |
+| 3 Subjects         | Mean      | 10.06 | 9.92  | 3.03 | 3.5   | 3.3  | 1.09 |
+| (416 combinations) | Median    | 10.42 | 10.42 | 2.08 | 2.08  | 1.04 | 0    |
+| 4 Subjects         | Mean      | 13.96 | 13.66 | 3.25 | 4.86  | 3.81 | 1.65 |
+| (700 combinations) | Median    | 14.45 | 14.06 | 2.34 | 3.91  | 1.95 | 0.39 |
+| 5 Subjects         | Mean      | 17.99 | 17.57 | 3.91 | 5.91  | 4.33 | 2.21 |
+| (812 combinations) | Median    | 18.13 | 17.81 | 2.5  | 5     | 2.81 | 0.62 |
+| 6 Subjects         | Mean      | 21.57 | 20.95 | 5.28 | 6.83  | 4.83 | 2.79 |
+| (658 combinations) | Median    | 21.61 | 21.09 | 2.86 | 5.99  | 3.39 | 1.3  |
+| 7 Subjects         | Mean      | 25.15 | 24.32 | 6.38 | 7.75  | 5.42 | 3.43 |
+| (368 combinations) | Median    | 25    | 24.11 | 3.13 | 7.14  | 4.46 | 1.79 |
+| 8 Subjects         | Mean      | 28.91 | 27.52 | 6.83 | 11.05 | 5.88 | 3.97 |
+| (136 combinations) | Median    | 29.69 | 27.83 | 3.71 | 7.42  | 4.49 | 1.86 |
+| 9 Subjects         | Mean      | 32.37 | 31    | 7.14 | 10.32 | 6.44 | 4.57 |
+| (30 combinations)  | Median    | 32.73 | 31.42 | 4.51 | 7.81  | 4.95 | 2.69 |
+| 10 Subjects        | Mean      | 36.46 | 33.49 | 7.81 | 16.93 | 7.24 | 4.79 |
+| (3 combinations)   | Median    | 36.09 | 32.81 | 7.03 | 18.91 | 5.47 | 3.28 |
 
 [liu]:https://sites.google.com/site/guangcanliu/
 [lin]:http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm
