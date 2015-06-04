@@ -6,7 +6,7 @@ author: QU Xiaofeng
 categories:
 - methods
 - vision
-img: rssc.jpg
+img: rssc-sample.jpg
 thumb: rssc.jpg
 ---
 
