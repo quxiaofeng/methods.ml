@@ -16,7 +16,7 @@ thumb: pisa.jpg
 
 **SSC (Sparse Subspace Clustering)**
 
-+ E. Elhamifar, R. Vidal, "[Sparse Subspace Clustering: Algorithm, Theory, and Applications](http://www.computer.org/csdl/trans/tp/2013/11/ttp2013112765-abs.html)," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35, no. 11, pp. 2765-2781, Nov., 2013 [论文](http://arxiv.org/abs/1203.1005) [代码](http://vision.jhu.edu/code/)
++ E. Elhamifar, R. Vidal, "[Sparse Subspace Clustering: Algorithm, Theory, and Applications](http://www.computer.org/csdl/trans/tp/2013/11/ttp2013112765-abs.html)," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35, no. 11, pp. 2765-2781, Nov., 2013 [[论文]](http://arxiv.org/abs/1203.1005) [[代码]](http://vision.jhu.edu/code/)
 + [Vidal, R.][vidal], "[Subspace Clustering](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5714408&tag=1)," Signal Processing Magazine, IEEE , vol.28, no.2, pp.52,68, March 2011 [代码](http://vision.jhu.edu/code/)
 
 **LRR (Low-Rank Representation)**
