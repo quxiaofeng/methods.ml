@@ -20,7 +20,7 @@ State-of-art 方法：
     + [[paper  (arXiv)]](http://arxiv.org/abs/1203.1005)
     + [[代码]](http://vision.jhu.edu/code/)
 + [Vidal, R.][vidal], "[Subspace Clustering](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5714408&tag=1)," Signal Processing Magazine, IEEE , vol.28, no.2, pp.52,68, March 2011
-    + [[代码]](http://vision.jhu.edu/code/)
+    + [[代码]](http://vision.jhu.edu/code/)<!--more-->
 
 **LRR (Low-Rank Representation)**
 

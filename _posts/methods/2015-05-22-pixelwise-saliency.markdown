@@ -12,7 +12,7 @@ thumb: pisa.jpg
 
 Keze Wang, Liang Lin, Jiangbo Lu, Chenglong Li, Keyang Shi. "PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence.", to appear in IEEE Trans. on Image Processing. A shorter previous version was published in CVPR 2013.
 
-[Official site](http://vision.sysu.edu.cn/project/PISA/)
+[Official site](http://vision.sysu.edu.cn/project/PISA/)<!--more-->
 
 PISA/F-PISA: [[paper](http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf)]  [[code](http://vision.sysu.edu.cn/project/PISA/PISA_ver1.2.rar)]  [[github](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)]
 

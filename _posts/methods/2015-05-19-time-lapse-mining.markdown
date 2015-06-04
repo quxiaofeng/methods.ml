@@ -15,7 +15,7 @@ thumb: time-lapse-mining.jpg
 </div>
 
 
-[[PDF](/assets/pdf/TimelapseMiningSIGGRAPH15.pdf)]
+[[PDF](/assets/pdf/TimelapseMiningSIGGRAPH15.pdf)]<!--more-->
 
 A Report in CNET by Don Reisinger
 -------------------------------
