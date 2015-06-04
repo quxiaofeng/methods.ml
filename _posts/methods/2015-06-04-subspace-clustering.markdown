@@ -22,7 +22,7 @@ State-of-art 方法：
 **LRR (Low-Rank Representation)**
 
 + [Guangcan Liu][liu]; [Zhouchen Lin][lin]; Shuicheng Yan; Ju Sun; Yong Yu; Yi Ma, "[Robust Recovery of Subspace Structures by Low-Rank Representation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6180173&isnumber=6353858)," Pattern Analysis and Machine Intelligence, IEEE Transactions on , vol.35, no.1, pp.171,184, Jan. 2013 [论文  (arXiv)](http://arxiv.org/abs/1010.2955) [代码 (google site)](https://sites.google.com/site/guangcanliu/) [论文 by Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2013-TPAMI-LRR.pdf) [代码 by Zhouchen Lin]("http://www.cis.pku.edu.cn/faculty/vision/zlin/lrr(motion_face).zip") [论文 (ICML2000)](http://www.icml2010.org/papers/521.pdf)
-+ Bin Cheng; [Guangcan Liu][liu]; Jingdong Wang; Zhongyang Huang; Shuicheng Yan, "[Multi-task low-rank affinity pursuit for image segmentation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126528&isnumber=6126217)," Computer Vision (ICCV), 2011 IEEE International Conference on , vol., no., pp.2439,2446, 6-13 Nov. 2011
++ Bin Cheng; [Guangcan Liu][liu]; [Jingdong Wang][wang]; Zhongyang Huang; Shuicheng Yan, "[Multi-task low-rank affinity pursuit for image segmentation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126528&isnumber=6126217)," Computer Vision (ICCV), 2011 IEEE International Conference on , vol., no., pp.2439,2446, 6-13 Nov. 2011 [[论文 (Microsoft)]](http://research.microsoft.com/en-us/um/people/jingdw/pubs/iccv11-segmentation.pdf)
 
 > 刚性的 motion segmentation 基本上用 subspace clustering 解决，效果就挺好了。因为同一个刚性目标基本上可以看成是采样在同一个子空间中。如果是非刚性的话可能效果就不是特别好。
 
@@ -35,4 +35,5 @@ State-of-art 方法：
 [liu]:https://sites.google.com/site/guangcanliu/
 [lin]:http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm
 [vidal]:http://cis.jhu.edu/~rvidal/
-[xu]:http://csjunxu.github.io/blog
+[xu]:http://csjunxu.github.io/blog/
+[wang]:http://research.microsoft.com/en-us/um/people/jingdw/
