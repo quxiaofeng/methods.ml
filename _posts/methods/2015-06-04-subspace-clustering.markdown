@@ -6,7 +6,8 @@ author: QU Xiaofeng
 categories:
 - methods
 - vision
-img:
+img: rssc.jpg
+carousel:
 - ssc.gif
 - ssc-algo.gif
 - ssc-scheme1.gif
