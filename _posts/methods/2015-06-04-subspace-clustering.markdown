@@ -7,23 +7,23 @@ categories:
 - methods
 - vision
 img:
-  - ssc.gif
-  - ssc-algo.gif
-  - ssc-scheme1.gif
-  - ssc-scheme2.gif
-  - ssc-scheme3.gif
-  - ssc-scheme4.gif
-  - ssc-scheme5.gif
-  - ssc-scheme6.gif
-  - ssc-scheme7.gif
-  - rssc.jpg
-  - rssc-algo.jpg
-  - rssc-result1.jpg
-  - rssc-result2.jpg
-  - rssc-sample1.jpg
-  - rssc-sample2.jpg
-  - rssc-result3.jpg
-  - rssc-result4.jpg
+- ssc.gif
+- ssc-algo.gif
+- ssc-scheme1.gif
+- ssc-scheme2.gif
+- ssc-scheme3.gif
+- ssc-scheme4.gif
+- ssc-scheme5.gif
+- ssc-scheme6.gif
+- ssc-scheme7.gif
+- rssc.jpg
+- rssc-algo.jpg
+- rssc-result1.jpg
+- rssc-result2.jpg
+- rssc-sample1.jpg
+- rssc-sample2.jpg
+- rssc-result3.jpg
+- rssc-result4.jpg
 thumb: rssc.jpg
 ---
 
