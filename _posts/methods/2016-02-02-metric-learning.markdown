@@ -21,8 +21,7 @@ thumb: rssc.jpg
 
 [Liu Yang][liu-yang] [06 年的 Survey][06-survey] 和 [07 年的 Overview][07-overview]。以及相应的[工具箱][distlearn]。
 
-[metric-learn]: 
-http://all-umass.github.io/metric-learn/index.html
+[metric-learn]: http://all-umass.github.io/metric-learn/index.html
 [metric-learn-repo]: https://github.com/all-umass/metric-learn
 [liu-yang]: http://www.cs.cmu.edu/~liuy/
 [06-survey]: http://www.cs.cmu.edu/~liuy/frame_survey_v2.pdf
