@@ -16,7 +16,7 @@ State-of-art 方法：
 
 **SSC (Sparse Subspace Clustering)**
 
-+ E. Elhamifar, R. Vidal, "[Sparse Subspace Clustering: Algorithm, Theory, and Applications](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6482137)," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35, no. 11, pp. 2765-2781, Nov., 2013
++ [E. Elhamifar][elhamifar], [R. Vidal][vidal], "[Sparse Subspace Clustering: Algorithm, Theory, and Applications](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6482137)," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35, no. 11, pp. 2765-2781, Nov., 2013
     + [[paper  (arXiv)]](http://arxiv.org/abs/1203.1005)
     + [[代码]](http://vision.jhu.edu/code/)
 + [Vidal, R.][vidal], "[Subspace Clustering](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5714408&tag=1)," Signal Processing Magazine, IEEE , vol.28, no.2, pp.52,68, March 2011
@@ -120,8 +120,9 @@ State-of-art 方法：
 | 10 Subjects        | Mean      | 36.46 | 33.49 | 7.81 | 16.93 | 7.24 | 4.79 |
 | (3 combinations)   | Median    | 36.09 | 32.81 | 7.03 | 18.91 | 5.47 | 3.28 |
 
-[liu]:https://sites.google.com/site/guangcanliu/
-[lin]:http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm
-[vidal]:http://cis.jhu.edu/~rvidal/
-[xu]:http://csjunxu.github.io/blog/
-[wang]:http://research.microsoft.com/en-us/um/people/jingdw/
+[liu]: https://sites.google.com/site/guangcanliu/
+[lin]: http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm
+[vidal]: http://cis.jhu.edu/~rvidal/
+[xu]: http://csjunxu.github.io/blog/
+[wang]: http://research.microsoft.com/en-us/um/people/jingdw/
+[elhamifar]: http://www.eecs.berkeley.edu/~ehsan.elhamifar/
