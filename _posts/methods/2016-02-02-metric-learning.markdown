@@ -5,9 +5,9 @@ date: 2016-02-02 14:05:19
 author: QU Xiaofeng
 categories:
 - methods
-- metric
-img: rssc-sample.jpg
-thumb: rssc.jpg
+- vision
+img: post03.jpg
+thumb: thumb04.jpg
 ---
 
 度量学习是学习一个距离表达函数。
