@@ -6,8 +6,8 @@ author: QU Xiaofeng
 categories:
 - methods
 - clustering
-img:
-thumb:
+img: post02.jpg
+thumb: thumb02.jpg
 ---
 
 度量学习是学习一个距离表达函数。
