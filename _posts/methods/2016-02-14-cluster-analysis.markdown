@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Metric Learning 度量学习"
-date: 2016-02-02 14:05:19
+title: "Cluster Analysis 聚类分析"
+date: 2016-02-14 20:09:17
 author: QU Xiaofeng
 categories:
 - methods
-- metric-learning
-img: post03.jpg
-thumb: thumb04.jpg
+- clustering
+img: post02.jpg
+thumb: thumb02.jpg
 ---
 
 度量学习是学习一个距离表达函数。
