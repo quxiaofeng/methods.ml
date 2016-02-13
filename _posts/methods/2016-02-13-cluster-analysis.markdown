@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Metric Learning 度量学习"
-date: 2016-02-02 14:05:19
+title: "Cluster Analysis 聚类分析"
+date: 2016-02-13 20:09:17
 author: QU Xiaofeng
 categories:
 - methods
-- metric learning
+- clustering
 img: post03.jpg
 thumb: thumb04.jpg
 ---

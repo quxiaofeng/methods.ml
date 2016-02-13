@@ -5,7 +5,7 @@ date: 2015-06-04 19:26:49
 author: QU Xiaofeng
 categories:
 - methods
-- vision
+- clustering
 img: rssc-sample.jpg
 thumb: rssc.jpg
 ---
