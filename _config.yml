@@ -5,7 +5,7 @@ title: Machine Learning Methods
 description: "Machine learning methods collects new methods in open source and academia, including clustering, regression, classification, supervised and unsupervised learning, metric learning and dictionary learning."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: /methods.ml #important: start with /
-url: http://www.quxiaofeng.me/methods.ml
+url: http://www.quxiaofeng.me
 
 # Build settings
 markdown: kramdown
